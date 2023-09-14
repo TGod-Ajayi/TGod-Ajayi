@@ -74,12 +74,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 
----
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`TGod-Ajayi`
-<!-- BLOG-POST-LIST:END -->
+
+
 
 
 
