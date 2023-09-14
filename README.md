@@ -36,7 +36,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
   - :zap: In my free time, I like to read books on emerging technologies and explore AI/Game Developmemnt.
   
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/thankgod-ajayi-7b4422197/])
+  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thankgod-ajayi-7b4422197/)
+
 
 
 ### :hammer_and_wrench: Languages, Frameworks and Tools :
