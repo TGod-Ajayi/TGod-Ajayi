@@ -12,7 +12,7 @@
   </a>
 </div>
 
-  <h2>Hey there 👋</h2>
+  <h2>Hi there 👋</h2>
 
 
 </div>
