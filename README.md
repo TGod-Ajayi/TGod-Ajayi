@@ -76,6 +76,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`TGod-Ajayi`
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
+---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TGod-Ajayi&theme=dark&card_width=500)](https://git.io/streak-stats)
@@ -83,6 +93,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGod-Ajayi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+
+
 
 
 ###  Thank You Enjoy this 😃
