@@ -85,13 +85,20 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<div display="flex" flexDirection="row"> 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TGod-Ajayi&theme=dark&card_width=500)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGod-Ajayi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-	
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=TGod-Ajayi&theme=dark&card_width=500" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGod-Ajayi&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
