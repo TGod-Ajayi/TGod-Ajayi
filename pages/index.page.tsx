@@ -1,8 +1,10 @@
 import About from '@/components/about';
+import Blog from '@/components/blog';
 import Experience from '@/components/experience';
 import Hero from '@/components/hero';
 import NavBar from '@/components/nav-bar';
 import Tech from '@/components/tech';
+import Work from '@/components/work';
 
 export default function Home() {
 	return (
@@ -14,6 +16,8 @@ export default function Home() {
 			<About />
 			<Experience />
 			<Tech />
+			<Work />
+			<Blog />
 		</main>
 	);
 }
