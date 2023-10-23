@@ -1,9 +1,11 @@
+'use client';
+
 import { useGLTF } from '@react-three/drei';
 import { IComputersProps } from './computers.types';
 import { FC } from 'react';
 
 const Computers: FC<IComputersProps> = ({ isMobile }) => {
-	const computer = useGLTF('./desktop_pc/scene.gltf');
+	const computer = useGLTF('/desktop_pc/scene.gltf');
 	return (
 		<mesh>
 			<hemisphereLight intensity={3} groundColor={'black'} />

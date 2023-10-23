@@ -1,8 +1,9 @@
-import { styles } from '@/styles/styles';
+import { styles } from '@/components/styles';
 import { staggerContainer } from '@/utils/motion';
 import { motion } from 'framer-motion';
+import { ComponentType } from 'react';
 
-const SectionWrapper = (Component, idName) =>
+const SectionWrapper = (Component: ComponentType, idName: string) =>
 	function HOC() {
 		return (
 			<motion.section
