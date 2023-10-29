@@ -1,4 +1,6 @@
-const experiences = [
+import { IExperienceCardProps } from './experience-card/experience-card.types';
+
+const experiences: IExperienceCardProps[] = [
 	{
 		title: 'Tech Lead',
 		companyName: 'Medicomp Solutions',
@@ -61,7 +63,6 @@ const experiences = [
 			'Added Notification System',
 			'Added Robust Component Library using Storybook',
 			'Added Testing Library using Playwright',
-			,
 		],
 	},
 	{
