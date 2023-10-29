@@ -37,7 +37,7 @@ const NavBar: FC = () => {
 					))}
 				</ul>
 				<div className="sm:hidden flex flex-1 justify-end items-center">
-					<img src={toggle ? close : menu} alt="menu" className="w-[28px] h-[28px] object-contain cursor-pointer" onClick={() => setToggle(!toggle)} />
+					<img src={toggle ? '/assets/close.svg' : '/assets/menu.svg'} alt="menu" className="w-[28px] h-[28px] object-contain cursor-pointer" onClick={() => setToggle(!toggle)} />
 					<div
 						className={`${!toggle ? 'hidden' : 'flex'} 
           p-6 black-gradient absolute top-20 
