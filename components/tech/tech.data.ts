@@ -20,8 +20,8 @@ const technologies = [
 		icon: '/assets/tech/reactjs.png',
 	},
 	{
-		name: 'Redux Toolkit',
-		icon: '/assets/tech/redux.png',
+		name: 'GraphQL',
+		icon: '/assets/tech/graphql.svg',
 	},
 	{
 		name: 'Tailwind CSS',
@@ -36,16 +36,16 @@ const technologies = [
 		icon: '/assets/tech/mongodb.png',
 	},
 	{
-		name: 'Three JS',
-		icon: '/assets/tech/threejs.svg',
+		name: 'PosgreSQL',
+		icon: '/assets/tech/postgresql.svg',
 	},
 	{
 		name: 'git',
 		icon: '/assets/tech/git.png',
 	},
 	{
-		name: 'figma',
-		icon: '/assets/tech/figma.png',
+		name: 'Nestjs',
+		icon: '/assets/tech/nestjs.svg',
 	},
 	{
 		name: 'docker',
