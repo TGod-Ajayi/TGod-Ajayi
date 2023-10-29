@@ -15,8 +15,8 @@ const Blog: FC = () => {
 				</motion.div>
 			</div>
 			<div className={`${styles.paddingX} -mt-20 pb-14 flex flex-wrap gap-7`}>
-				{blogData.map((testimonial, index) => (
-					<BlogCard key={testimonial.name} index={index} {...testimonial} />
+				{blogData.map((blog, index) => (
+					<BlogCard key={blog.name} index={index} {...blog} />
 				))}
 			</div>
 		</div>
