@@ -28,9 +28,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I love solving problems  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-  - :telescope: I’m a Software Engineer contributing to frontend and backend projects.
+  - :telescope: I’m a Full-Stack Software Engineer contributing to frontend and backend projects.
   
   - :seedling: I also love writing Technical Content on Medium.
   
