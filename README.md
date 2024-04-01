@@ -30,14 +30,12 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend projects.
+  - :telescope: I’m a Software Engineer contributing to frontend and backend projects.
   
-  - :seedling: I'm also a  Technical Content Writer on Medium.
+  - :seedling: I also love writing Technical Content on Medium.
   
-  - :zap: In my free time, I like to read books on emerging technologies and explore AI/Game Developmemnt.
+  - :zap: In my free time, I like to read books on emerging technologies and explore AI/Game development.
   
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thankgod-ajayi-7b4422197/)
-
 
 
 ### :hammer_and_wrench: Languages, Frameworks and Tools :
